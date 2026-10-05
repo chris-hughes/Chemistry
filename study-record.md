@@ -61,20 +61,17 @@ Demonstrated:
 Unit 1A–1D content is complete at the intended foundation level. Learner reasons well from physical principles and can use electron configurations to explain periodic-table structure. Avoid assuming detailed transition-metal chemistry that has not been taught.
 
 ## Resume here
-### Next: agree and take the Unit 1 assessment
-Before starting Unit 2, discuss and agree the purpose, structure, difficulty, marking/feedback approach and whether the assessment is closed-book or allows reference material.
+### Next session: Unit 1 assessment
+The assessment methodology has been agreed and stored in `test-methodology.md`. The learner did not have time to take the test at this checkpoint.
 
-The assessment should cover Unit 1A–1D:
-- atomic structure, isotopes and ions;
-- introductory bonding/electronegativity/polarity already included in Unit 1;
-- groups, periods and periodic trends with physical reasoning;
-- shell/subshell/orbital hierarchy and capacities;
-- Aufbau/Madelung, Hund and Pauli;
-- electron configurations and orbital diagrams;
-- periodic-table blocks, period structure and main-group valence patterns;
-- integrated reasoning from atomic structure → configuration → periodic position/properties.
-
-Prioritise derivation and explanation over factual recall. Do not test untaught detailed transition-metal group/valence rules. After the assessment, diagnose weak areas and review them before Unit 2.
+At the next session:
+1. Read `test-methodology.md`, this study record and the roadmap.
+2. Construct the complete fixed Stage 1 Unit 1 question set before asking Question 1.
+3. Cover all Unit 1A–1D material, excluding untaught detailed transition-metal group/valence rules.
+4. Use mixed topic ordering and mixed difficulty, including unfamiliar transfer and integrated reasoning.
+5. Administer one question at a time without correctness feedback during Stage 1.
+6. After Stage 1, use targeted Stage 2 follow-ups for uncertain areas.
+7. Finish with the agreed diagnostic profile and review any genuine gaps before Unit 2.
 
 ## Checkpoint policy
 Update this record at natural unit boundaries or whenever requested. Keep concise: demonstrated understanding, misconceptions/terminology, and exact next step.
