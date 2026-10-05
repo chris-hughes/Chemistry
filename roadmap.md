@@ -2,106 +2,76 @@
 
 ## Goal
 
-Build a strong general-chemistry foundation from a high-school starting
-point, emphasising understanding and derivation over memorisation.
+Build a strong general-chemistry foundation from a high-school starting point, emphasising understanding and derivation over memorisation.
 
 ## Learning method
 
--   Begin new topics with a diagnostic or reasoning question.
--   Explain concepts physically and intuitively before introducing
-    formal notation.
--   Use short retrieval questions throughout.
--   Distinguish useful simplified models from more accurate models.
--   Revisit earlier concepts through application rather than repetitive
-    drills.
--   Keep calculations tied to chemical meaning.
+- Begin new topics with a diagnostic or reasoning question.
+- Explain concepts physically and intuitively before introducing formal notation.
+- Use short retrieval questions throughout.
+- Distinguish useful simplified models from more accurate models.
+- Revisit earlier concepts through application rather than repetitive drills.
+- Keep calculations tied to chemical meaning.
 
-## Unit 1 --- Atomic structure and the periodic table
+## Unit 1 — Atomic structure and the periodic table
 
-### 1A. Atomic foundations --- COMPLETE
-
+### 1A. Atomic foundations — COMPLETE
 Protons, neutrons, electrons; atomic and mass number; isotopes; ions.
 
-### 1B. Simple electron structure --- COMPLETE
-
+### 1B. Simple electron structure — COMPLETE
 Shells, valence electrons, introductory ionic and covalent bonding.
 
-### 1C. Periodic trends --- COMPLETE
+### 1C. Periodic trends — COMPLETE
+Groups and periods; shielding; atomic radius; ionisation energy; electronegativity; bond polarity.
 
-Groups and periods; shielding; atomic radius; ionisation energy;
-electronegativity; bond polarity.
+### 1D. Electron configurations — COMPLETE
+Completed:
+- Principal shells, subshells (s, p, d, f), orbitals and electron capacities.
+- Shell → subshell → orbital → electron hierarchy.
+- Aufbau principle and Madelung (n+l) rule.
+- Hund's rule and Pauli exclusion principle.
+- Complete electron configurations and orbital diagrams.
+- Noble-gas notation.
+- Why 4s fills before 3d in the introductory sequence.
+- Mapping configurations to periods and s/p/d/f blocks.
+- Deriving block widths and period lengths from subshell capacities and filling order.
+- Main-group valence-electron patterns.
+- 4s/3d ionisation nuance: 4s electrons are generally removed before 3d electrons once 3d is occupied.
+- Chromium and copper as examples showing that Madelung/Aufbau is a predictive model rather than an exact universal energy law.
+- Transition-metal group/valence details deliberately deferred; not required for this foundation checkpoint.
 
-### 1D. Electron configurations --- IN PROGRESS
+### Unit 1 checkpoint — READY FOR ASSESSMENT
+Before Unit 2, agree the format and purpose of a Unit 1 test. The assessment should diagnose understanding across 1A–1D, especially the ability to derive answers physically rather than rely on memorised facts. Review weak areas after the test before progressing.
 
-Completed so far: - Principal shells / energy levels and why the simple
-2,8,8 model is incomplete. - Subshells: s, p, d, f. - Orbitals as
-quantum states described spatially by probability distributions, not
-literal electron paths. - Hierarchy: shell → subshell → orbital →
-electron. - Orbital counts: s = 1, p = 3, d = 5, f = 7. - Maximum two
-electrons per orbital; subshell capacities s = 2, p = 6, d = 10, f =
-14. - Shell capacities 2, 8, 18, 32 and the 2n² pattern. - Aufbau
-principle: lowest-energy available orbitals fill first. - Madelung (n +
-l) rule; ties resolved by lower n. - Hund's rule and Pauli exclusion
-principle at the introductory level. - Orbital diagrams and
-electron-configuration notation. - First real configuration: neutral
-nitrogen = 1s² 2s² 2p³.
+## Unit 2 — Bonding and molecular structure
+Ionic and covalent bonding in more depth; Lewis structures; formal charge; resonance; VSEPR; molecular polarity; metallic bonding.
 
-Next: - Practise complete electron configurations and orbital diagrams
-for several elements. - Connect configurations to periods, groups and
-the s/p/d/f blocks. - Consolidate valence-electron structure. -
-Introduce exceptions/nuances to simple filling rules only when relevant.
+## Unit 3 — Intermolecular forces and properties
+London dispersion forces, dipole–dipole interactions, hydrogen bonding, links to boiling point, solubility and physical properties.
 
-## Unit 2 --- Bonding and molecular structure
+## Unit 4 — Chemical reactions
+Chemical formulae and equations, balancing, conservation of atoms and charge, reaction types, precipitation and gas-forming reactions.
 
-Ionic and covalent bonding in more depth; Lewis structures; formal
-charge; resonance; VSEPR; molecular polarity; metallic bonding.
+## Unit 5 — Quantitative chemistry
+Relative atomic/molecular mass, the mole, Avogadro's constant, molar mass, stoichiometry, limiting reagents, percentage yield.
 
-## Unit 3 --- Intermolecular forces and properties
-
-London dispersion forces, dipole--dipole interactions, hydrogen bonding,
-links to boiling point, solubility and physical properties.
-
-## Unit 4 --- Chemical reactions
-
-Chemical formulae and equations, balancing, conservation of atoms and
-charge, reaction types, precipitation and gas-forming reactions.
-
-## Unit 5 --- Quantitative chemistry
-
-Relative atomic/molecular mass, the mole, Avogadro's constant, molar
-mass, stoichiometry, limiting reagents, percentage yield.
-
-## Unit 6 --- Solutions
-
+## Unit 6 — Solutions
 Concentration, dilution, solubility and solution stoichiometry.
 
-## Unit 7 --- Energetics and kinetics
+## Unit 7 — Energetics and kinetics
+Exothermic/endothermic change, enthalpy, bond energies, activation energy, collision theory, rate factors and catalysts.
 
-Exothermic/endothermic change, enthalpy, bond energies, activation
-energy, collision theory, rate factors and catalysts.
+## Unit 8 — Acids and bases
+Acid/base models, pH, strong vs weak, neutralisation, buffers at an introductory level.
 
-## Unit 8 --- Acids and bases
+## Unit 9 — Equilibrium
+Dynamic equilibrium, equilibrium constants conceptually, Le Châtelier's principle.
 
-Acid/base models, pH, strong vs weak, neutralisation, buffers at an
-introductory level.
+## Unit 10 — Redox and electrochemistry
+Oxidation states, redox equations, galvanic/electrolytic cells and electrode potentials conceptually.
 
-## Unit 9 --- Equilibrium
-
-Dynamic equilibrium, equilibrium constants conceptually, Le Châtelier's
-principle.
-
-## Unit 10 --- Redox and electrochemistry
-
-Oxidation states, redox equations, galvanic/electrolytic cells and
-electrode potentials conceptually.
-
-## Unit 11 --- Introductory organic chemistry
-
-Carbon bonding, functional groups, nomenclature basics, isomerism and
-common reaction patterns.
+## Unit 11 — Introductory organic chemistry
+Carbon bonding, functional groups, nomenclature basics, isomerism and common reaction patterns.
 
 ## Optional branches
-
-After the foundation course, choose among organic chemistry,
-biochemistry, materials chemistry, physical chemistry, environmental
-chemistry or deeper quantum/atomic theory.
+After the foundation course, choose among organic chemistry, biochemistry, materials chemistry, physical chemistry, environmental chemistry or deeper quantum/atomic theory.
