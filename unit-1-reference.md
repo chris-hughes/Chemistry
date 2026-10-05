@@ -28,15 +28,17 @@ Hierarchy:
 | d | 5 | 10 |
 | f | 7 | 14 |
 
-Maximum electrons in shell (n):
+Maximum electrons in shell $n$:
 
-**2n²**
+$$
+2n^2
+$$
 
 So shells can contain 2, 8, 18, 32... electrons. This is capacity, not necessarily the order in which electrons fill.
 
 ### Filling rules
 - **Aufbau:** fill the lowest-energy available orbitals first.
-- **Madelung:** compare (n+l); lower value fills first. If tied, lower (n) fills first.
+- **Madelung:** compare $n+l$; lower value fills first. If tied, lower $n$ fills first.
 - **Hund:** equal-energy orbitals fill singly before electrons pair.
 - **Pauli:** maximum two electrons per orbital; if paired, they have opposite spins.
 
@@ -54,9 +56,9 @@ Useful filling sequence:
 ### Main-group valence patterns
 Examples:
 
-- Group 1: (ns^1)
-- Group 2: (ns^2)
-- p-block patterns continue (ns^2np^1) through (ns^2np^6).
+- Group 1: $ns^1$
+- Group 2: $ns^2$
+- p-block patterns continue $ns^2np^1$ through $ns^2np^6$.
 
 For main-group elements, valence electrons are the electrons in the outer occupied shell.
 
@@ -125,7 +127,7 @@ Ionic and covalent bonding are therefore not completely separate boxes; bonding 
 
 The old 2,8,8 shell model is useful, but incomplete.
 
-A **shell** is a principal energy level labelled by (n=1,2,3,ldots). It is not a literal circular path.
+A **shell** is a principal energy level labelled by $n=1,2,3,\\ldots$. It is not a literal circular path.
 
 Each shell contains one or more **subshells**:
 
@@ -140,7 +142,7 @@ An orbital is a quantum state associated with a spatial probability distribution
 
 For example, the p subshell contains three orbitals. Each can hold two electrons:
 
-(p: [ ][ ][ ])
+`p: [ ] [ ] [ ]`
 
 so a p subshell holds at most six electrons.
 
@@ -152,7 +154,7 @@ Example: sulfur has atomic number 16, so a neutral sulfur atom has 16 electrons.
 
 Fill the lowest-energy available states:
 
-**1s² 2s² 2p⁶ 3s² 3p⁴**
+$1s^2 2s^2 2p^6 3s^2 3p^4$
 
 The shell totals are therefore:
 
@@ -160,7 +162,7 @@ The shell totals are therefore:
 
 The detailed configuration explains where the simpler shell numbers come from.
 
-For (3p^4), Hund's rule gives:
+For $3p^4$, Hund's rule gives:
 
 **[↑↓] [↑] [↑]**
 
@@ -171,9 +173,9 @@ A noble-gas symbol can replace the completed inner configuration.
 
 For example:
 
-**[Ar] 4s² 3d¹**
+$[\\mathrm{Ar}] 4s^2 3d^1$
 
-means the atom contains all 18 electrons of argon's configuration, followed by (4s^2 3d^1).
+means the atom contains all 18 electrons of argon's configuration, followed by $4s^2 3d^1$.
 
 ---
 
@@ -187,20 +189,20 @@ The important example from Unit 1 is:
 
 Using Madelung:
 
-- 4s: (n+l=4+0=4)
-- 3d: (n+l=3+2=5)
+- 4s: $n+l=4+0=4$
+- 3d: $n+l=3+2=5$
 
 So 4s fills first in the introductory model.
 
 This explains why potassium is:
 
-**[Ar] 4s¹**
+$[\\mathrm{Ar}] 4s^1$
 
 rather than putting electron 19 into 3d.
 
 Scandium then becomes:
 
-**[Ar] 4s² 3d¹**
+$[\\mathrm{Ar}] 4s^2 3d^1$
 
 Its shell totals are 2, 8, 9, 2 — showing directly why the simple 2,8,8 picture cannot be the full model.
 
@@ -228,7 +230,7 @@ Period 3 fills 3s + 3p → **8 elements**. Although shell 3 can hold 18 electron
 
 Period 4 fills:
 
-**4s² 3d¹⁰ 4p⁶**
+$4s^2 3d^{10} 4p^6$
 
 giving **18 elements**.
 
@@ -276,7 +278,7 @@ Fe: **[Ar] 4s² 3d⁶**
 
 Fe²⁺: **[Ar] 3d⁶**
 
-A useful physical intuition is that the 4s electrons are associated with the outer (n=4) shell and are easier to remove once the 3d subshell is occupied.
+A useful physical intuition is that the 4s electrons are associated with the outer $n=4$ shell and are easier to remove once the 3d subshell is occupied.
 
 Detailed transition-metal group numbering and valence-electron chemistry were deliberately deferred.
 
@@ -288,23 +290,23 @@ Madelung/Aufbau predicts useful filling patterns, but it is not a perfect fundam
 
 Simple prediction for chromium:
 
-**[Ar] 4s² 3d⁴**
+$[\\mathrm{Ar}] 4s^2 3d^4$
 
 Observed ground-state configuration:
 
-**[Ar] 4s¹ 3d⁵**
+$[\\mathrm{Ar}] 4s^1 3d^5$
 
 Simple prediction for copper:
 
-**[Ar] 4s² 3d⁹**
+$[\\mathrm{Ar}] 4s^2 3d^9$
 
 Observed:
 
-**[Ar] 4s¹ 3d¹⁰**
+$[\\mathrm{Ar}] 4s^1 3d^{10}$
 
-Half-filled (d^5) and filled (d^{10}) arrangements are particularly favourable in these cases.
+Half-filled $d^5$ and filled $d^{10}$ arrangements are particularly favourable in these cases.
 
-The important lesson is not to memorise a long exception list. It is to understand that actual configurations minimise the atom's total energy, while rules such as (n+l) are useful predictive approximations.
+The important lesson is not to memorise a long exception list. It is to understand that actual configurations minimise the atom's total energy, while rules such as $n+l$ are useful predictive approximations.
 
 ---
 
@@ -317,7 +319,7 @@ Electrons do not travel around the nucleus on fixed paths. Use **orbital**.
 Shell 3 can hold 18 electrons, but that does not mean all 18 fill before shell 4 begins.
 
 **A p⁵ configuration does not mean five valence electrons**  
-For a main-group atom with (ns^2np^5), both subshells are in the outer shell: **7 valence electrons**.
+For a main-group atom with $ns^2np^5$, both subshells are in the outer shell: **7 valence electrons**.
 
 **4s fills first, but is also generally removed first**  
 Do not simply reverse the filling sequence when making ions.
@@ -339,6 +341,6 @@ If you can explain these without looking above, the main conceptual structure is
 
 1. Why can shell 3 hold 18 electrons even though period 3 contains only eight elements?
 2. Why does atomic radius generally decrease from left to right across a period?
-3. Why is (3p^4) distributed as [↑↓][↑][↑] rather than [↑↓][↑↓][ ]?
+3. Why is $3p^4$ distributed as [↑↓][↑][↑] rather than [↑↓][↑↓][ ]?
 4. Why does potassium's nineteenth electron enter 4s rather than 3d?
 5. How can electron configuration tell you an element's period and block?
