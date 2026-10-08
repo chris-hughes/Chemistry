@@ -62,6 +62,20 @@ Include some questions designed to expose plausible misconceptions. These may:
 
 These should test understanding, not rely on obscure tricks.
 
+## Mandatory permanent exam archive
+
+For every end-of-unit assessment, maintain a GitHub Markdown file at `assessments/unit-N-YYYY-MM-DD.md`. This is the authoritative record; the study record only links to it and summarises the outcome.
+
+**Before Question 1:** Construct and lock all Stage 1 questions, then save their complete exact wording, numbering, parts, scenarios and diagrams (with durable textual equivalents) to GitHub. Mark the archive `in progress`. Do not start the formal test unless saving succeeds.
+
+**After every answer:** Append the learner's full, verbatim response alongside its question, retaining original spelling, formatting, notation, mistakes and uncertainty. Confirm the GitHub write succeeded *before* asking the next question. Never substitute a summary or reconstructed answer. If saving fails, pause the exam until it works.
+
+**Stage 2:** Record every adaptive follow-up's full wording and the learner's complete verbatim answer using the same write-before-continuing process. Keep teaching and feedback in separate sections; do not alter original answers.
+
+**At completion:** Add an evidence-based topic-by-topic assessment (Secure / Mostly secure / Needs reinforcement / Not secure), question references, strengths, slips versus genuine gaps, outstanding revision points and progression decision. Verify that every locked question and follow-up has a full answer or explicit `not answered` entry. Mark `complete`, verify the saved file by fetching it, then link it from `study-record.md` with a concise outcome.
+
+**Interrupted sessions:** Resume from the saved archive and the first unanswered question, never reconstruct the locked set. Later corrections are appended and labelled, never overwrite original answers. If historical text is unavailable, explicitly label it missing, summarised or reconstructed rather than claiming a verbatim transcript. The 2026-10-08 Unit 1 archive contains a clearly labelled historical reconstruction for Q1; future exams must capture every question and answer exactly.
+
 ## Assessment outcome
 After both stages, give a topic-by-topic diagnostic using:
 
