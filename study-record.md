@@ -10,7 +10,7 @@ This GitHub repository is the authoritative source for learning progress, the ro
 
 ## Current checkpoint — 9 October 2026
 
-**Unit 1 complete and passed. Unit 2 overview reviewed; lessons not yet started. Next: Lesson 2A — Ionic and covalent bonding in depth.**
+**Unit 1 complete and passed. Unit 2 Lesson 2A completed on 9 October 2026. Next: Lesson 2B — Lewis structures.**
 
 ## Starting point
 
@@ -88,19 +88,35 @@ Unit 1A–1D content is complete at the intended foundation level. Learner reaso
 - Follow-up confirmed Pauli exclusion and noble-gas shorthand. Revisit why anomalous configurations such as copper depend on total energy rather than an automatic preference for filled subshells.
 - Modern IUPAC group 17 versus older group 7 terminology clarified.
 
+## Completed: Unit 2A — Ionic and covalent bonding in depth (9 October 2026)
+
+**Lesson complete; informal lesson checks passed.** This is not the formal Unit 2 assessment.
+
+Demonstrated through independent reasoning:
+
+- H₂ has a stable equilibrium bond length because of competing attractive and repulsive interactions; stretching beyond equilibrium increases energy and produces a restoring force.
+- Bonding depends on lowering **total energy**, not atoms wanting full shells; electrostatic potential energy and electron kinetic energy must both be considered.
+- Electron density represents the distribution of electron charge; density between nuclei contributes to stabilising a covalent bond.
+- Electron affinity: chlorine's first electron attachment releases energy, but this cannot be reliably predicted from the octet rule alone. Correctly identified the full-shell explanation as useful but incomplete.
+- Electron transfer between isolated gaseous Na and Cl is not by itself sufficient to explain stable NaCl; the extended lattice provides additional energetic stabilisation.
+- Separating an ionic crystal into gaseous ions requires energy; stronger charges and shorter ionic separations generally strengthen lattice attraction.
+- NaCl represents a **ratio in an extended ionic lattice**, not a discrete NaCl molecule. Final integration question answered correctly.
+
+Refinements and future retrieval:
+
+- Initially leaned on full shells as the *cause* of stability; subsequently explained the total-energy criterion independently. Revisit this distinction in an unfamiliar example.
+- Distinguish Coulomb **force** (inverse-square with separation) from electrostatic **potential energy** (inverse-first-power for point charges).
+- The usual molecular 'potential-energy curve' incorporates electronic kinetic energy in the effective energy for nuclear separation; avoid treating it as only electrostatic potential energy.
+- Lattice dissociation **enthalpy** terminology was introduced provisionally; detailed enthalpy belongs in Unit 7.
+- Keep the prior Unit 1 copper total-energy question on the spaced-revision list; applying energy reasoning in 2A is progress, but copper-specific independent mastery remains untested.
+
 ## Resume here
-### Next lesson: 2A — Ionic and covalent bonding in depth
+### Next lesson: 2B — Lewis structures
 
-The Unit 2 overview has been reviewed. No Unit 2 lessons have been completed or assessed.
+Lesson 2A is complete. Begin with a brief retrieval link from covalent electron sharing to how we **represent bonding pairs and lone pairs**. Teach Lewis dot symbols, shared pairs, lone pairs, and single/double/triple bonds in the roadmap's intended sequence. Avoid assuming formal charge, resonance or VSEPR, which belong to later lessons.
 
-Begin with: **Why does forming a chemical bond often make a system more energetically stable than its separated atoms?**
-
-Build from electrostatic attraction and total-energy minimisation to attractive and repulsive interactions, equilibrium bond distance, and ionic lattices versus covalent molecules. Distinguish electron transfer from the electrostatic attraction that constitutes ionic bonding. Introductory bonding is already secure; deepen it rather than repeat Unit 1.
-
-Continue concept-first explanations and short reasoning questions **one at a time**. Follow the six-lesson sequence in [the roadmap](roadmap.md): 2A bonding, 2B Lewis structures, 2C formal charge and resonance, 2D VSEPR, 2E molecular polarity, 2F metallic bonding. Use the agreed assessment methodology at the next unit boundary.
-
-Revisit the genuine copper-energetics gap during spaced revision: atoms minimise total energy, and a filled subshell does not automatically outweigh other energy costs. Teaching was provided after F2; independent mastery has not yet been demonstrated.
+Continue with concept-first explanations, one reasoning question at a time, and the agreed end-of-lesson integration question and checkpoint workflow in [learning-approach.md](learning-approach.md).
 
 ## Checkpoint policy
 
-Update this record at natural unit boundaries or whenever requested. Keep concise: demonstrated understanding, misconceptions/terminology, and exact next step.
+Update this record **at the end of every completed lesson/chapter**, at unit boundaries, or whenever requested. Also update the roadmap's lesson status. Verify both GitHub writes before confirming completion. Keep concise: demonstrated understanding, misconceptions/terminology, and exact next step.
