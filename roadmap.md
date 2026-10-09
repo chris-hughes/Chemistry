@@ -24,19 +24,24 @@ Build a strong general-chemistry foundation from a high-school starting point, e
 ## Unit 1 — Atomic structure and the periodic table
 
 ### 1A. Atomic foundations — COMPLETE
+
 Protons, neutrons, electrons; atomic and mass number; isotopes; ions.
 
 ### 1B. Simple electron structure — COMPLETE
+
 Shells, valence electrons, introductory ionic and covalent bonding.
 
 ### 1C. Periodic trends — COMPLETE
+
 Groups and periods; shielding; atomic radius; ionisation energy; electronegativity; bond polarity.
 
 ### 1D. Electron configurations — COMPLETE
+
 Completed:
+
 - Principal shells, subshells (s, p, d, f), orbitals and electron capacities.
 - Shell → subshell → orbital → electron hierarchy.
-- Aufbau principle and Madelung (n+l) rule.
+- Aufbau principle and Madelung ($n+l$) rule.
 - Hund's rule and Pauli exclusion principle.
 - Complete electron configurations and orbital diagrams.
 - Noble-gas notation.
@@ -49,6 +54,7 @@ Completed:
 - Transition-metal group/valence details deliberately deferred; not required for this foundation checkpoint.
 
 ### Unit 1 checkpoint — PASSED
+
 The [8 October 2026 assessment](assessments/unit-1-2026-10-08.md) confirms readiness for Unit 2: 1A–1C secure; 1D mostly secure. Revisit total-energy minimisation in anomalous configurations during spaced revision. This does not require repeating Unit 1 before progressing. Transition-metal group numbering and detailed valence chemistry remain deferred.
 
 ## Unit 2 — Bonding and molecular structure — READY TO BEGIN
@@ -67,31 +73,41 @@ Overview reviewed on 9 October 2026. All six lessons remain to be taught and ass
 Begin Lesson 2A with the energetics of bond formation, building on the introductory bonding already covered. Continue concept-first explanations and reasoning questions one at a time. Molecular structure and polarity prepare the foundation for Unit 3.
 
 ## Unit 3 — Intermolecular forces and properties
+
 London dispersion forces, dipole–dipole interactions, hydrogen bonding, links to boiling point, solubility and physical properties.
 
 ## Unit 4 — Chemical reactions
+
 Chemical formulae and equations, balancing, conservation of atoms and charge, reaction types, precipitation and gas-forming reactions.
 
 ## Unit 5 — Quantitative chemistry
+
 Relative atomic/molecular mass, the mole, Avogadro's constant, molar mass, stoichiometry, limiting reagents, percentage yield.
 
 ## Unit 6 — Solutions
+
 Concentration, dilution, solubility and solution stoichiometry.
 
 ## Unit 7 — Energetics and kinetics
+
 Exothermic/endothermic change, enthalpy, bond energies, activation energy, collision theory, rate factors and catalysts.
 
 ## Unit 8 — Acids and bases
+
 Acid/base models, pH, strong vs weak, neutralisation, buffers at an introductory level.
 
 ## Unit 9 — Equilibrium
+
 Dynamic equilibrium, equilibrium constants conceptually, Le Châtelier's principle.
 
 ## Unit 10 — Redox and electrochemistry
+
 Oxidation states, redox equations, galvanic/electrolytic cells and electrode potentials conceptually.
 
 ## Unit 11 — Introductory organic chemistry
+
 Carbon bonding, functional groups, nomenclature basics, isomerism and common reaction patterns.
 
 ## Optional branches
+
 After the foundation course, choose among organic chemistry, biochemistry, materials chemistry, physical chemistry, environmental chemistry or deeper quantum/atomic theory.
