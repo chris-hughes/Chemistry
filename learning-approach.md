@@ -193,7 +193,7 @@ At the start of a new session or after a substantial break:
 3. Confirm what is already secure and what remains to be revisited.
 4. Resume without re-teaching the entire course or assuming untaught knowledge.
 
-At a natural checkpoint:
+At the end of **each completed lesson/chapter**, and at unit boundaries:
 - Update `study-record.md` with demonstrated understanding, precise misconceptions, terminology to reinforce and the exact resumption point.
 - Update `roadmap.md` when unit/lesson status changes.
 - Keep the study record concise; store full exam evidence in `assessments/`.
@@ -287,7 +287,8 @@ Maintain a separate repository file, [`curiosity-parking-lot.md`](curiosity-park
 1. **Final integration question:** Ask one concise reasoning question that brings together the lesson's main concepts, preferably in a slightly unfamiliar context. Wait for the learner's independent answer.
 2. **Specific feedback:** Explain what the learner demonstrated and correct any remaining misconception. Distinguish a small wording slip from a conceptual gap.
 3. **Brief consolidation:** Summarise the core mental model, important distinctions, and what can now be reasoned out without rote memorisation.
-4. **Clear transition:** State whether the lesson is complete and identify the next lesson or concept. Do not silently begin an extensive new topic.
+4. **Persist the checkpoint in GitHub:** At the end of **every completed lesson/chapter**, update `study-record.md` with the completion date, concepts demonstrated independently, gaps or refinements to revisit, and the exact next lesson. Update `roadmap.md` to mark the lesson complete and identify the next one. **Verify both writes before telling the learner the lesson has been recorded.** If a write fails, explain that the checkpoint was not saved and retry before moving on. Do not wait until a unit boundary.
+5. **Clear transition:** State whether the lesson is complete and identify the next lesson or concept. Do not silently begin an extensive new topic.
 
 Keep this closure conversational, not a formal mini-exam. Do not require multiple extra questions when the final response already establishes understanding. Formal unit assessments still follow [the assessment methodology](test-methodology.md).
 
