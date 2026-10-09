@@ -229,6 +229,57 @@ It also shows why **targeted follow-ups matter**: the `[Ar]s¹` shorthand error 
 
 The teaching implication is to continue prioritising **independent explanation, careful model boundaries, and short adaptive checks**.
 
+## 13. Scope management — balanced exploration
+
+**Agreed preference:** Follow the current lesson and unit, while allowing short, useful detours that genuinely deepen understanding. Curiosity is welcome; extended rabbit holes are not the default.
+
+### Three levels of relevance
+
+| Level | Meaning | Teaching response |
+| --- | --- | --- |
+| **Core** | Necessary to understand the current lesson or directly within its planned scope | Explore fully, with explanation and reasoning checks. |
+| **Adjacent** | Clarifies the current concept but belongs partly outside the immediate lesson | Give a concise explanation at the minimum useful depth, usually no more than a couple of exchanges; explicitly reconnect to the original question. |
+| **Beyond scope** | Requires substantial new prerequisites or introduces a distinct topic | Give a one- or two-sentence orientation if helpful, offer to park the question, and return to the lesson. |
+
+These are **relevance judgements, not rigid message quotas**. A brief but important clarification may be worth pursuing. If an adjacent detour starts requiring its own sequence of lessons, stop and treat it as beyond scope.
+
+### Assistant responsibilities
+
+1. **Proactively notice drift** rather than relying on the learner to police it.
+2. Explain the boundary without dismissing the question: e.g. “That's relevant, but a full explanation would take us into quantum mechanics. The short version is …; we can park the deeper question and return to bonding.”
+3. Answer only enough of an adjacent question to support the present concept.
+4. **Explicitly return** to the exact original question or learning objective after the detour.
+5. When a tangent would be unusually valuable but substantial, **ask permission before changing scope**; do not silently launch a new lesson.
+6. Do not test the learner on parked or briefly mentioned material as if it had been taught.
+7. Never use scope management to evade a genuine conceptual difficulty within the current lesson. If the learner cannot understand the core idea without a prerequisite, teach the minimum necessary prerequisite and identify it as such.
+
+### Curiosity parking lot
+
+Maintain a separate repository file, [`curiosity-parking-lot.md`](curiosity-parking-lot.md), for substantive questions deferred from lessons. This prevents interesting questions being lost without expanding the active curriculum.
+
+**When to add an entry:** When the learner asks an out-of-scope question worth revisiting, or agrees to park a deeper branch of an adjacent topic. Do not log every fleeting aside or create entries without a meaningful question.
+
+**For each entry, record:**
+- An exact or faithful question, with the learner's own wording where available.
+- The unit/lesson where it arose.
+- Why it was deferred (scope, prerequisites or time).
+- The most suitable later unit or milestone for revisiting it, or “optional exploration” if outside the roadmap.
+- Status: **Parked**, **Revisited** or **Closed**, with a link or brief note when revisited.
+
+**Workflow:** Acknowledge the question, provide a short orientation where useful, add or update the parking-lot entry in GitHub, verify the write, and resume the original lesson. Avoid duplicates: expand an existing entry when it is the same question. If saving fails, say so rather than claiming the question is recorded.
+
+**Review cadence:** Scan the parking lot at natural unit boundaries and when a later lesson reaches a relevant prerequisite. Do not turn the parking lot into an obligatory second syllabus. The learner chooses whether to explore optional questions.
+
+### Example from Lesson 2A
+
+- **Core:** Why attractive and repulsive interactions give hydrogen a stable bond length.
+- **Adjacent:** Why an electron does not simply fall into a nucleus — explain the minimum quantum idea needed, then return.
+- **Beyond scope:** A full derivation of molecular bonding from the Schrödinger equation — park for an optional quantum-chemistry branch.
+
+### Default decision rule
+
+**If a detour strengthens the current mental model, explore briefly. If it requires building a different mental model, park it.** When uncertain, explain the choice and ask the learner whether they want to go further.
+
 ## 12. Immediate next step
 
 Unit 1 is passed. Unit 2 overview has been reviewed but no lessons completed. Resume with **Lesson 2A — Ionic and covalent bonding in depth**, beginning with the physical reasons that bonding can lower total energy. Build from competing attractive and repulsive interactions to stable bond distance, and compare ionic lattices with covalent molecules.
