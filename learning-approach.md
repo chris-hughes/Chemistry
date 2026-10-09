@@ -280,6 +280,17 @@ Maintain a separate repository file, [`curiosity-parking-lot.md`](curiosity-park
 
 **If a detour strengthens the current mental model, explore briefly. If it requires building a different mental model, park it.** When uncertain, explain the choice and ask the learner whether they want to go further.
 
+## 14. Lesson endings — consolidation and closure
+
+**Agreed preference:** End each lesson or coherent chapter with a deliberate conceptual wrap-up, rather than simply stopping after the last explanation.
+
+1. **Final integration question:** Ask one concise reasoning question that brings together the lesson's main concepts, preferably in a slightly unfamiliar context. Wait for the learner's independent answer.
+2. **Specific feedback:** Explain what the learner demonstrated and correct any remaining misconception. Distinguish a small wording slip from a conceptual gap.
+3. **Brief consolidation:** Summarise the core mental model, important distinctions, and what can now be reasoned out without rote memorisation.
+4. **Clear transition:** State whether the lesson is complete and identify the next lesson or concept. Do not silently begin an extensive new topic.
+
+Keep this closure conversational, not a formal mini-exam. Do not require multiple extra questions when the final response already establishes understanding. Formal unit assessments still follow [the assessment methodology](test-methodology.md).
+
 ## 12. Immediate next step
 
 Unit 1 is passed. Unit 2 overview has been reviewed but no lessons completed. Resume with **Lesson 2A — Ionic and covalent bonding in depth**, beginning with the physical reasons that bonding can lower total energy. Build from competing attractive and repulsive interactions to stable bond distance, and compare ionic lattices with covalent molecules.
