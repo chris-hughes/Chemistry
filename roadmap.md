@@ -6,7 +6,7 @@ This GitHub repository is the authoritative source for the course plan, learning
 
 ## Current position — 9 October 2026
 
-Unit 1 passed on 8 October 2026. Unit 2 overview reviewed; no Unit 2 lessons completed yet. **Next: Lesson 2A — Ionic and covalent bonding in depth.**
+Unit 1 passed on 8 October 2026. **Unit 2 Lesson 2A completed on 9 October 2026. Next: Lesson 2B — Lewis structures.**
 
 ## Goal
 
@@ -57,20 +57,20 @@ Completed:
 
 The [8 October 2026 assessment](assessments/unit-1-2026-10-08.md) confirms readiness for Unit 2: 1A–1C secure; 1D mostly secure. Revisit total-energy minimisation in anomalous configurations during spaced revision. This does not require repeating Unit 1 before progressing. Transition-metal group numbering and detailed valence chemistry remain deferred.
 
-## Unit 2 — Bonding and molecular structure — READY TO BEGIN
+## Unit 2 — Bonding and molecular structure — IN PROGRESS
 
-Overview reviewed on 9 October 2026. All six lessons remain to be taught and assessed.
+Overview reviewed on 9 October 2026. Lesson 2A completed on 9 October 2026; lessons 2B–2F and the Unit 2 assessment remain.
 
 | Lesson | Topic | Central question |
 | --- | --- | --- |
-| 2A | Ionic and covalent bonding in depth | Why can bonding lower a system's energy? |
+| 2A — COMPLETE (9 Oct 2026) | Ionic and covalent bonding in depth | Why can bonding lower a system's energy? |
 | 2B | Lewis structures | How do we represent bonding pairs, lone pairs and single, double and triple bonds? |
 | 2C | Formal charge and resonance | How do we evaluate Lewis structures and represent delocalised electrons? |
 | 2D | Molecular geometry (VSEPR) | What determines a molecule's three-dimensional shape? |
 | 2E | Molecular polarity | How do bond polarity and geometry determine an overall dipole? |
 | 2F | Metallic bonding | How does collective electron behaviour explain metallic properties? |
 
-Begin Lesson 2A with the energetics of bond formation, building on the introductory bonding already covered. Continue concept-first explanations and reasoning questions one at a time. Molecular structure and polarity prepare the foundation for Unit 3.
+Lesson 2A covered energetics of covalent bonding, electron density, equilibrium bond length, electron affinity versus full-shell heuristics, and ionic lattice stabilisation. **Next: Lesson 2B**, starting with Lewis symbols and bonding/lone pairs. Continue concept-first explanations and reasoning questions one at a time. Molecular structure and polarity prepare the foundation for Unit 3.
 
 ## Unit 3 — Intermolecular forces and properties
 
