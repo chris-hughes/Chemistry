@@ -3,6 +3,12 @@
 ## Purpose
 Living checkpoint for the Chemistry Study project. Use it to resume lessons without relying on full chat history.
 
+## Source of truth
+This GitHub repository is the authoritative source for learning progress, the roadmap and assessments. Future checkpoints should update `study-record.md` and `roadmap.md` here directly; attached or downloaded copies may be outdated.
+
+## Current checkpoint — 9 October 2026
+**Unit 1 complete and passed. Unit 2 overview reviewed; lessons not yet started. Next: Lesson 2A — Ionic and covalent bonding in depth.**
+
 ## Starting point
 Returning after not studying chemistry since high school. Rebuild from first principles; conceptual reasoning before memorisation; regular short questions.
 
@@ -68,8 +74,16 @@ Unit 1A–1D content is complete at the intended foundation level. Learner reaso
 - Modern IUPAC group 17 versus older group 7 terminology clarified.
 
 ## Resume here
-### Next session: Unit 2
-Begin the Unit 2 material from `roadmap.md`, retaining concept-first explanation, frequent reasoning checks and agreed assessment methodology at the next unit boundary.
+### Next lesson: 2A — Ionic and covalent bonding in depth
+The Unit 2 overview has been reviewed. No Unit 2 lessons have been completed or assessed.
+
+Begin with: **Why does forming a chemical bond often make a system more energetically stable than its separated atoms?**
+
+Build from electrostatic attraction and total-energy minimisation to attractive and repulsive interactions, equilibrium bond distance, and ionic lattices versus covalent molecules. Distinguish electron transfer from the electrostatic attraction that constitutes ionic bonding. Introductory bonding is already secure; deepen it rather than repeat Unit 1.
+
+Continue concept-first explanations and short reasoning questions **one at a time**. Follow the six-lesson sequence in [the roadmap](roadmap.md): 2A bonding, 2B Lewis structures, 2C formal charge and resonance, 2D VSEPR, 2E molecular polarity, 2F metallic bonding. Use the agreed assessment methodology at the next unit boundary.
+
+Revisit the genuine copper-energetics gap during spaced revision: atoms minimise total energy, and a filled subshell does not automatically outweigh other energy costs. Teaching was provided after F2; independent mastery has not yet been demonstrated.
 
 ## Checkpoint policy
 Update this record at natural unit boundaries or whenever requested. Keep concise: demonstrated understanding, misconceptions/terminology, and exact next step.
